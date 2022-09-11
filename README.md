@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Recent Graduate From IGNOU in Bachelor in Computer Application
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 Im currenly Learning React 
+- 🌱 Im currently Learning React 
 - 📖 I am currently reading **Torihada Files** by Tara A. Devlin
 - 📫 Reach me on my discord or linkedIn 
 - 👯 We can connect to play some games of Apex Legends
