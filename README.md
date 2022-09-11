@@ -39,9 +39,9 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
       
-<!--       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/> -->
-      <!--       <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="WebPack" width="55" height="55"/> -->
-<!--       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>  -->
+<!--    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/> 
+            <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="WebPack" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>   -->
 </p>
 
 ---
@@ -55,14 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
- A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“The more you know, the more you realize you know nothing.”— Socrates   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
 
----
 
 <!-- ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
