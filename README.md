@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...https://gfycat.com/disgustingcharmingkissingbug
  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-# Hi there! <img src="https://gfycat.com/disgustingcharmingkissingbug" width="35" />
-// 
-//https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/laraib-shuja-66089b248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laraibShuja" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/lara1B#7011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lara1B#7011" height="40" width="30" /></a>&nbsp;
