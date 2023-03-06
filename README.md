@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...https://gfycat.com/disgustingcharmingkissingbug
+- 🔭 I’m currently working on ...
  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
  How to reach me: ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="http://discord.com/users/lara1B#7011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lara1B#7011" height="40" width="30" /></a>&nbsp;
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://gfycat.com/disgustingcharmingkissingbug)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Recent Graduate From IGNOU in Bachelor in Computer Application
